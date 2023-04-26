@@ -3,4 +3,9 @@
 ---
 
 ### mac_changer.py
-Usage - $python3 mac_changer.py --interface [define] --mac [desired mac]
+-- Usage --
+
+```bash
+python3 mac_changer.py --interface [define] --mac [desired mac]
+```
+---
